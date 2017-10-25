@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.10.4)  6 OCT 2017 23:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.10.4)  25 OCT 2017 19:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -150,7 +150,7 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 (/home/hemant/texmf/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count88
-)))
+))
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
@@ -181,6 +181,14 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen113
 \Gm@dimlist=\toks16
 )
+(/home/hemant/texmf/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip47
+\enit@outerparindent=\dimen114
+\enit@toks=\toks17
+\enit@inbox=\box26
+\enitdp@description=\count92
+))
 
 ! LaTeX Error: \swdefault undefined.
 
@@ -264,69 +272,74 @@ LaTeX Font Info:    ... okay on input line 3.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 95.
+(Font)              scaled to size 24.88pt on input line 104.
 LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/bx/n' in size <24.88> not a
 vailable
 (Font)              Font shape `T1/Baskervaldx-TOsF/b/n' tried instead on input
- line 95.
+ line 104.
 LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 95.
+(Font)              scaled to size 24.88pt on input line 104.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 95.
+(Font)              <7> on input line 104.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 95.
+(Font)              <5> on input line 104.
 LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 95.
+(Font)              scaled to size 12.0pt on input line 104.
 
-Overfull \hbox (12.79999pt too wide) in paragraph at lines 95--95
+Overfull \hbox (12.79999pt too wide) in paragraph at lines 104--104
 [][] 
  []
 
 LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/bx/n' in size <10> not avai
 lable
 (Font)              Font shape `T1/Baskervaldx-TOsF/b/n' tried instead on input
- line 95.
+ line 104.
 LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 95.
+(Font)              scaled to size 10.0pt on input line 104.
 LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/bx/n' in size <14.4> not av
 ailable
 (Font)              Font shape `T1/Baskervaldx-TOsF/b/n' tried instead on input
- line 95.
+ line 104.
 LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 95.
+(Font)              scaled to size 14.4pt on input line 104.
 LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 95.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 95.
+(Font)              scaled to size 14.4pt on input line 104.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 104.
+
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Overfull \hbox (9.79999pt too wide) in paragraph at lines 95--95
+Overfull \hbox (9.79999pt too wide) in paragraph at lines 104--104
 [][] 
  []
 
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 104.
+LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/m/it' will be
+(Font)              scaled to size 7.0pt on input line 104.
 
-Overfull \hbox (12.79999pt too wide) in paragraph at lines 95--95
+Overfull \hbox (12.79999pt too wide) in paragraph at lines 104--104
 [][] 
  []
 
 LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/bx/n' in size <12> not avai
 lable
 (Font)              Font shape `T1/Baskervaldx-TOsF/b/n' tried instead on input
- line 95.
+ line 104.
 LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 95.
+(Font)              scaled to size 12.0pt on input line 104.
 
-Overfull \hbox (12.79999pt too wide) in paragraph at lines 95--95
+Overfull \hbox (12.79999pt too wide) in paragraph at lines 104--104
 [][] 
  []
 
 
-Overfull \hbox (12.79999pt too wide) in paragraph at lines 95--95
+Overfull \hbox (12.79999pt too wide) in paragraph at lines 104--104
 [][] 
  []
 
 
-Overfull \hbox (27.79999pt too wide) in paragraph at lines 95--96
+Overfull \hbox (27.79999pt too wide) in paragraph at lines 104--105
 [][] 
  []
 
@@ -335,23 +348,24 @@ Overfull \hbox (27.79999pt too wide) in paragraph at lines 95--96
 {/home/hemant/.texlive2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./invoice.aux) ) 
 Here is how much of TeX's memory you used:
- 2196 strings out of 494945
- 29935 string characters out of 6181032
- 79790 words of memory out of 5000000
- 5488 multiletter control sequences out of 15000+600000
- 27543 words of font info for 34 fonts, out of 8000000 for 9000
+ 2484 strings out of 494945
+ 34825 string characters out of 6181032
+ 87188 words of memory out of 5000000
+ 5768 multiletter control sequences out of 15000+600000
+ 34226 words of font info for 40 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 35i,17n,34p,851b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,17n,34p,851b,314s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/hemant/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen
-/ec/ectt1200.600pk> </home/hemant/.texlive2016/texmf-var/fonts/pk/ljfour/jknapp
-en/ec/ectt1440.600pk>{/usr/local/share/texmf/fonts/enc/zbv_rzwiio.enc}{/usr/loc
-al/share/texmf/fonts/enc/zbv_6rwo65.enc}</usr/local/share/texmf/fonts/type1/Bas
-kervaldx-Bol.pfb></usr/local/share/texmf/fonts/type1/Baskervaldx-Reg.pfb></home
-/hemant/texmf/fonts/type1/public/tfrupee/tfrupee.pfb>
-Output written on invoice.pdf (1 page, 145736 bytes).
+/ec/ectt1200.600pk>{/usr/local/share/texmf/fonts/enc/zbv_3lvabu.enc} </home/hem
+ant/.texlive2016/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1440.600pk>{/usr/loc
+al/share/texmf/fonts/enc/zbv_rzwiio.enc}{/usr/local/share/texmf/fonts/enc/zbv_6
+rwo65.enc}</usr/local/share/texmf/fonts/type1/Baskervaldx-Bol.pfb></usr/local/s
+hare/texmf/fonts/type1/Baskervaldx-Ita.pfb></usr/local/share/texmf/fonts/type1/
+Baskervaldx-Reg.pfb></home/hemant/texmf/fonts/type1/public/tfrupee/tfrupee.pfb>
+Output written on invoice.pdf (1 page, 164829 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 87 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

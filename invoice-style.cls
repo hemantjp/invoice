@@ -7,3 +7,7 @@
 \usepackage{tfrupee}  
 \usepackage[osf,tabular,lf]{Baskervaldx}
 \usepackage[margin=1in,footskip=0.25in]{geometry}
+\usepackage{enumitem}
+\newcommand{\ts}{\textsuperscript}
+
+%\renewcommand\labelitemi{$\ast$}
