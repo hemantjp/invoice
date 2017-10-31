@@ -9,5 +9,8 @@
 \usepackage[margin=1in,footskip=0.25in]{geometry}
 \usepackage{enumitem}
 \newcommand{\ts}{\textsuperscript}
+\newcommand{\RN}[1]{%
+  \textup{\uppercase\expandafter{\romannumeral#1}}%
+}
 
 %\renewcommand\labelitemi{$\ast$}
