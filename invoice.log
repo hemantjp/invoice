@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.10.4)  31 OCT 2017 19:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.10.4)  2 NOV 2017 11:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -360,17 +360,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 141--148
  []
 
 
-Overfull \hbox (227.62206pt too wide) in paragraph at lines 152--152
-[]|[]| 
+Underfull \hbox (badness 1552) in paragraph at lines 164--164
+[]|\T1/Baskervaldx-TOsF/m/n/10 incomplete demo, de-vel-op-ment
  []
 
 
-Overfull \hbox (23.02339pt too wide) in paragraph at lines 149--154
+Overfull \hbox (8.79703pt too wide) in paragraph at lines 149--193
 [][] 
  []
 
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 133--157
+Overfull \hbox (15.0pt too wide) in paragraph at lines 133--196
 []$[]$ 
  []
 
@@ -378,7 +378,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 133--157
 Here is how much of TeX's memory you used:
  2493 strings out of 494945
  34935 string characters out of 6181032
- 85200 words of memory out of 5000000
+ 100200 words of memory out of 5000000
  5775 multiletter control sequences out of 15000+600000
  36924 words of font info for 43 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -392,7 +392,7 @@ sr/local/share/texmf/fonts/enc/zbv_rzwiio.enc}{/usr/local/share/texmf/fonts/enc
 ocal/share/texmf/fonts/type1/Baskervaldx-Ita.pfb></usr/local/share/texmf/fonts/
 type1/Baskervaldx-Reg.pfb></home/hemant/texmf/fonts/type1/public/tfrupee/tfrupe
 e.pfb>
-Output written on invoice.pdf (3 pages, 173548 bytes).
+Output written on invoice.pdf (3 pages, 178170 bytes).
 PDF statistics:
  117 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
