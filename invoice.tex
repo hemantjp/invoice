@@ -1,6 +1,8 @@
 \documentclass[]{invoice-style}
 
 \begin{document}
+\pagenumbering{roman}
+
 %\fbox{
 \begin{minipage}[t][60em][c]{\textwidth}
 %\fbox{
@@ -67,7 +69,9 @@
 	\begin{minipage}[][][t]{\textwidth}
 \begin{tabular}{  m{12cm}  m{3cm}  } 
 {\bfseries \Large Description} & \begin{center}{\bfseries \Large Amount}\end{center}  \\ 
-\multirow{2}{10cm}{{\large - Professional fees towards consultation service}\\  \hspace*{3mm}{\rupee~77000} per 22 days\ts{1}} & \begin{center}{\large\rupee~77000}\end{center} \\ 
+\multirow{1}{10cm}{{\large - Professional fees towards consultation service}  
+%\hspace*{3mm}{\rupee~77000} per 22 days\ts{1}
+} & \begin{center}{\large\rupee~77000}\end{center} \\ 
 \end{tabular}
 \vspace{.35cm}\\
 %\hspace*{3mm}Details:
