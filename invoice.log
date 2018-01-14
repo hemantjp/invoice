@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.10.4)  3 DEC 2017 23:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.10.4)  14 JAN 2018 22:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -343,75 +343,15 @@ LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/m/it' will be
 LaTeX Font Info:    Font shape `T1/Baskervaldx-TOsF/m/it' will be
 (Font)              scaled to size 7.0pt on input line 124.
 
-Overfull \hbox (15.0pt too wide) in paragraph at lines 110--135
+Overfull \hbox (15.0pt too wide) in paragraph at lines 110--144
 []$[]$ 
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 138--144
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 145--152
-
- []
-
-
-Underfull \hbox (badness 2142) in paragraph at lines 159--159
-[]|\T1/Baskervaldx-TOsF/m/n/10 react within an-gu-lar fea-si-bil-ity
- []
-
-
-Underfull \hbox (badness 2012) in paragraph at lines 159--159
-\T1/Baskervaldx-TOsF/m/n/10 study. Tech-ni-cal ac-com-mo-da-
- []
-
-
-Underfull \hbox (badness 2443) in paragraph at lines 186--187
-[]|\T1/Baskervaldx-TOsF/m/n/10 websocket and client built on
- []
-
-
-Overfull \hbox (8.79703pt too wide) in paragraph at lines 153--208
-[][] 
- []
-
-
-Overfull \hbox (15.0pt too wide) in paragraph at lines 137--209
-[]$[]$ 
- []
-
-[3]
-Underfull \hbox (badness 5161) in paragraph at lines 219--222
-\T1/Baskervaldx-TOsF/m/n/10 con-nec-tion com-plete. Ma-jor
- []
-
-
-Underfull \hbox (badness 2846) in paragraph at lines 223--226
-[]|\T1/Baskervaldx-TOsF/m/n/10 async log-gingg re-search done.
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 227--231
-\T1/Baskervaldx-TOsF/m/n/10 sult-ing in thread block. Lim-
- []
-
-
-Overfull \hbox (8.79703pt too wide) in paragraph at lines 211--238
-[][] 
- []
-
-
-Overfull \hbox (15.0pt too wide) in paragraph at lines 210--241
-[]$[]$ 
- []
-
-[4] (./invoice.aux) ) 
+[2] (./invoice.aux) ) 
 Here is how much of TeX's memory you used:
  2490 strings out of 494945
  34865 string characters out of 6181032
- 92200 words of memory out of 5000000
+ 85200 words of memory out of 5000000
  5773 multiletter control sequences out of 15000+600000
  33854 words of font info for 40 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -425,10 +365,10 @@ sr/local/share/texmf/fonts/enc/zbv_rzwiio.enc}{/usr/local/share/texmf/fonts/enc
 ocal/share/texmf/fonts/type1/Baskervaldx-Ita.pfb></usr/local/share/texmf/fonts/
 type1/Baskervaldx-Reg.pfb></home/hemant/texmf/fonts/type1/public/tfrupee/tfrupe
 e.pfb>
-Output written on invoice.pdf (4 pages, 179211 bytes).
+Output written on invoice.pdf (2 pages, 172199 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 115 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
